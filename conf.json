@@ -1,0 +1,2 @@
+[{"instruction":"crop","parameters":["1","3"]},
+{"instruction":"changeVolume","parameters":["0.5"]}]
